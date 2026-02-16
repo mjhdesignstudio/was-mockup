@@ -36,3 +36,28 @@ body {
 .body li {
   margin-bottom: 10px;
 }
+
+.class-hero {
+  background-color: #84c5ce;
+  padding: 40px;
+  margin: 60px;
+  border-radius: 10px;
+}
+.class-hero h1 {
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.class-hero img {
+  width: 25%;
+  border-radius: 10px;
+  margin-left: 60px;
+}
+
+.instructor-bio {
+  display: inline-block;
+  width: 50%;
+  vertical-align: top;
+  margin-left: 40px;
+}
