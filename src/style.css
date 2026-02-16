@@ -61,3 +61,16 @@ body {
   vertical-align: top;
   margin-left: 40px;
 }
+
+.login-form {
+  margin: 0 auto;
+  max-width: 25%;
+}
+
+.login-button {
+  border-radius: 6px;
+  border: none;
+  background-color: #09324f;
+  color: white;
+  padding: 10px 20px;
+}
