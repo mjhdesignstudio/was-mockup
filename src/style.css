@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  background-color: #ffffff;
+}
+
+.hero {
+  background-color: #84c5ce;
+  padding: 40px;
+  margin: 60px;
+  border-radius: 10px;
+}
+
+.hero h1 {
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.hero img {
+  width: 50%;
+  margin: 0 auto;
+  display: block;
+  border-radius: 10px;
+}
+
+.body {
+  padding: 0 60px;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 60px;
+}
